@@ -1,0 +1,6 @@
+Client
+#pip install scapy
+#pip install textwrap3
+Server
+#pip install scapy
+#pip install python-magic
