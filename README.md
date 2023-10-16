@@ -20,5 +20,3 @@ STEP-3</br>
 Modified client.py according to your environment.</br>
 STEP-4</br>
 Run client.py</br>
-
-123
