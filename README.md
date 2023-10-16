@@ -1,6 +1,7 @@
 # DNS-Exfiltration
 Mudik DNS Exfiltration</br>
-![image](https://github.com/spatronn/DNS-Exfiltration/assets/27374567/5263e009-4e22-49c5-9db0-f7e6628e7170)
+![image](https://github.com/spatronn/DNS-Exfiltration/assets/27374567/98b43ade-ae4b-4e0f-83cd-d5c48c7e76eb)
+
 
 
 <b>Change the parameter according to your environment:</b></br>
