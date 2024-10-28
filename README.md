@@ -21,3 +21,7 @@ STEP-3</br>
 Modified client.py according to your environment.</br>
 STEP-4</br>
 Run client.py</br>
+STEP-5</br>
+Once exfiltration is complete, run recreate_exfiltration_data.py to deduplicate and collect the data.</br>
+STEP-6 Final</br>
+We run decode_save_file.py to decode the file created in STEP-5 and access the original file.
